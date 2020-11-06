@@ -230,7 +230,7 @@ defaults:
   # _resources
   - scope:
       path: ""
-      type: resources
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -239,7 +239,7 @@ defaults:
   # _literature
   - scope:
       path: ""
-      type: literature
+      type: talks
     values:
       layout: talk
       author_profile: true
