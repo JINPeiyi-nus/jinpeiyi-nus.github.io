@@ -8,5 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my study Zone! Let's make a bit more progress everyday.
+
+
+Welcome to my study Zone! 
+
+Let's make a bit more progress everyday.
 
