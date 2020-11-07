@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "JIN Peiyi"
-  avatar           : "IMG_1679.JPG"
+  avatar           : "IMG_1679.jpg"
   bio              : "First-year Economics Ph.D. in National University of Singapore"
   location         : "Singapore"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/JINPeiyi-nus"
+  github           : "JINPeiyi-nus"
   google_plus      :
   keybase          :
   instagram        :
