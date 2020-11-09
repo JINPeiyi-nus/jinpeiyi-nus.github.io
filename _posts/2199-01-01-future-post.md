@@ -1,11 +1,15 @@
 ---
-title: 'Future Blog Post'
-date: 2019-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Research Outline'
+date: 2020-11-09
+permalink: /posts/2019/11/blog-post-1/
 tags:
   - cool posts
   - category1
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+Topic:
+Finance, especially in developing areas
+
+Method:
+Econometrics, improved with machine learning methods

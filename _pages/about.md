@@ -11,6 +11,6 @@ redirect_from:
 
 
 
-<br> Welcome to my study Zone!   <\br>
+<br> Welcome to my study Zone!  
 Let's make a bit more progress everyday.
 
