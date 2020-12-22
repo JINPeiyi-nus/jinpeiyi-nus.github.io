@@ -11,6 +11,6 @@ redirect_from:
 
 
 
-# Welcome to my study Zone!  
+## Welcome to my study Zone!  
 Let's make a bit more difference everyday.
 
