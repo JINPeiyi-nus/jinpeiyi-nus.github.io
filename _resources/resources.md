@@ -1,7 +1,7 @@
 ---
 title: 'Reinforcement learning'
 date: 2020-12-15
-permalink: /resource/2020/12/
+permalink: /resources/2020/12/resource-1/
 tags:
   - online courses
 ---
