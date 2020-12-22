@@ -5,10 +5,10 @@ main:
     url: /year-archive/
 
   - title: "Literature"
-    url: /Literature/      
+    url: /literature/      
     
   - title: "Resources"
-    url: /Resources/
+    url: /resources/
         
   - title: "Teaching"
     url: /teaching/  
