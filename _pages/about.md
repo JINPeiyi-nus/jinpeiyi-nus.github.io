@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-![](./images/coverpic.jpg)
+![](/images/coverpic.jpg)
 
 
 ## Welcome to my study Zone!  
