@@ -6,9 +6,9 @@ date: 2020-12-28
 tags:
   - books of inspiration
 ---
+------
 
-The Road Less Traveled
-======
+The Road Less Traveled\
 Timeless Edition: A New Psychology of Love, Traditional Values and Spiritual Growth
 ------
 
