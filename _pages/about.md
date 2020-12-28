@@ -13,5 +13,5 @@ redirect_from:
 
 
 ## Welcome to my study Zone!  
-Let's make a bit more difference everyday.
+You do not study alone here.
 
